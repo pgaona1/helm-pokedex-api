@@ -9,7 +9,7 @@ image:
   # repository: europe-west1-docker.pkg.dev/technical-test-pgaona-16581/fc-artifact-registry/pokedex-api
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "a446f0a5-6a0a-4f60-9ad1-8d273f99f148"
+  tag: "f85ee4a0-2ac2-4ee1-adef-fa0403a309db"
   # tag: "2.0"
 
 imagePullSecrets: []
